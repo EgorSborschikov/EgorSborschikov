@@ -2,7 +2,7 @@
 <img src="./path/to/your/image.gif" align="center" style="width: 100%" />
 </div>  
 
-### **<div align="center">I'm Sergey, a full-time freelance developer. I've been working remotely since 2022</div>**  
+### **<div align="center">I'm Egor, a full-time mobile applications developer. I've been working remotely since 2022</div>**  
 
 **⚡ Fun fact: I use tabs over spaces**  
 
