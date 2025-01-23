@@ -1,46 +1,85 @@
-<div align="center">
-<img src="./path/to/your/image.gif" align="center" style="width: 100%" />
-</div>  
+# Обо мне
 
-### **<div align="center">I'm Egor, a full-time mobile applications developer. I've been working remotely since 2024</div>**  
+Hi! I'm Egor and i begiener mobile-full stack developer. Below are my skills and details to contact me.
 
-**⚡ Fun fact: I use tabs over spaces**  
+---
 
-<br/>  
+## Навыки
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter-logo-sharing.png" alt="Flutter" height="50" /></a>  
-<a href="https://developer.android.com/jetpack/compose" target="_blank"><img style="margin: 10px" src="https://developer.android.com/images/jetpack/compose/jetpack-compose-logo.svg" alt="Jetpack Compose" height="50" /></a>  
-<a href="https://avaloniaui.net/" target="_blank"><img style="margin: 10px" src="https://avaloniaui.net/assets/img/avalonia-logo.svg" alt="Avalonia UI" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://dart.dev/tools/dart-logo.png" alt="Dart" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://kotlinlang.org/assets/images/open-graph/kotlin_1200x630.png" alt="Kotlin" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/C_Sharp_logo.png" alt="C#" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python" height="50" /></a>  
-<a href="https://golang.org/" target="_blank"><img style="margin: 10px" src="https://golang.org/doc/gopher/appengine/gopher.png" alt="Go" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/8b/SQL_Server_Management_Studio_logo.png" alt="SSMS" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.sqlite.org/index.html" target="_blank"><img style="margin: 10px" src="https://www.sqlite.org/images/sqlite370_banner.png" alt="SQLite" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://firebase.google.com/images/brand-guidelines/2x/logo-standard.png" alt="Firebase" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-<br/>  
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
-<br/>  
-<br/>  
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" alt="Poetry"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Pydantic-306998?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/EntityFramework-512BD4?style=for-the-badge&logo=entityframework&logoColor=white" alt="EntityFramework"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=wpf&logoColor=white" alt="WPF"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Avalonia-007ACC?style=for-the-badge&logo=avalonia&logoColor=white" alt="Avalonia"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Streaming(Go)-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Streaming (Go)"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+    </td>
+  </tr>
+</table>
