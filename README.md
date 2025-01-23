@@ -4,7 +4,7 @@ Hi! I'm Egor and i begiener mobile-full stack developer. Below are my skills and
 
 ---
 
-## Hard skills 🔨
+## Hard skills 🔨:
 
 ### Operation Systems:
 
