@@ -38,7 +38,7 @@ Hi! I'm Egor and i begiener mobile-full stack developer. Below are my skills and
   </tr>
 </table>
 
-### Franeworks:
+### Frameworks:
 
 <table>
   <tr>
