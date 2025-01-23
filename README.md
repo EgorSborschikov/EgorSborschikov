@@ -1,10 +1,14 @@
-# Обо мне
+# Briefly about yourself ‼️
 
 Hi! I'm Egor and i begiener mobile-full stack developer. Below are my skills and details to contact me.
 
 ---
 
-## Навыки
+## Skill set 💪
+
+## Hard skills 🔨
+
+### Operation Systems:
 
 <table>
   <tr>
@@ -15,6 +19,11 @@ Hi! I'm Egor and i begiener mobile-full stack developer. Below are my skills and
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
     </td>
   </tr>
+</table>
+
+### Programming Language:
+
+<table>
   <tr>
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
@@ -29,6 +38,11 @@ Hi! I'm Egor and i begiener mobile-full stack developer. Below are my skills and
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
     </td>
   </tr>
+</table>
+
+### Franeworks:
+
+<table>
   <tr>
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -61,6 +75,13 @@ Hi! I'm Egor and i begiener mobile-full stack developer. Below are my skills and
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/Streaming(Go)-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Streaming (Go)"/>
     </td>
+  </tr>
+</table>
+
+### Database Management Systems:
+
+<table>
+  <tr>
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     </td>
@@ -70,11 +91,16 @@ Hi! I'm Egor and i begiener mobile-full stack developer. Below are my skills and
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
     </td>
+  </tr>
+</table>
+
+### Other Instruments:
+
+<table>
+  <tr>
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     </td>
@@ -83,3 +109,27 @@ Hi! I'm Egor and i begiener mobile-full stack developer. Below are my skills and
     </td>
   </tr>
 </table>
+
+## Soft skills 💁‍♂️:
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Communication-FF69B4?style=for-the-badge&logoColor=white" alt="Communication"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Self--Reflection-8A2BE2?style=for-the-badge&logoColor=white" alt="Self-Reflection"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Responsibility-FF4500?style=for-the-badge&logoColor=white" alt="Responsibility"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Critical%20Thinking-FFD700?style=for-the-badge&logoColor=white" alt="Critical Thinking"/>
+    </td>
+  </tr>
+</table> 
+
+## Contact me 📱:
+
+### Telegram 💬 - [https://t.me/scientistmd]
+### Email 📧 - [egorsborsikov250575@gmail.com]
