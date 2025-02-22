@@ -1,4 +1,4 @@
-# Briefly about yourself ‼️
+# Briefly about me ‼️
 
 Hi! I'm Egor and i begiener mobile-full stack developer. Below are my skills and details to contact me.
 
