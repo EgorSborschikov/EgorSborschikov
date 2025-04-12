@@ -42,11 +42,13 @@ Hi! I'm Egor, a beginner mobile-full stack developer. Below are my skills and co
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NET](https://img.shields.io/badge/-NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia-%23FF6F00.svg?style=for-the-badge&logo=avalonia&logoColor=white)
 ![WPF](https://img.shields.io/badge/-WPF-5C2D91?style=for-the-badge&logo=wpf&logoColor=white)
 
 <br>
 
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%234B1F6F.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-306998?style=for-the-badge&logo=pydantic&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)
