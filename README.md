@@ -37,6 +37,16 @@ Hi! I'm Egor, a beginner mobile-full stack developer. Below are my skills and co
 
 </div>
 
+## Markup Languages & Design Tools
+<div align="Center">
+
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  ![XAML](https://img.shields.io/badge/-XAML-0A84FF?style=for-the-badge&logo=xaml&logoColor=white)
+  ![AXAML](https://img.shields.io/badge/-AXAML-0A84FF?style=for-the-badge&logo=xaml&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
 ### Frameworks & Tools
 <div align="center">
 
